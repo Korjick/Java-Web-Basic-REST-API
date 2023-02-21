@@ -1,17 +1,14 @@
-<h1 align="center">Welcome to Java WEB Servlet REST API 👋</h1>
-<p>
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-</p>
 
-> Servlet REST API Java Service
+# Java WEB Servlet REST API
 
-### 🏠 [Homepage](https://github.com/Korjick/Informatics-First-Semester-HW)
+## Semester work by Bulat Din (2nd).
+#### Teacher [Alexander Ferenets](https://github.com/istamendil)
 
-## Author
+## Deployment
 
-👤 **Bulat Din**
+Deploy via Tomcat server
 
-* Website: https://github.com/Korjick
-* Github: [@Korjick](https://github.com/Korjick)
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
